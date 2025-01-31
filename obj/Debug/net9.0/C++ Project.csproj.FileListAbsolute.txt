@@ -12,3 +12,4 @@ C:\Users\Lucas\Documents\1. Projects\C++ Project\obj\Debug\net9.0\refint\C++ Pro
 C:\Users\Lucas\Documents\1. Projects\C++ Project\obj\Debug\net9.0\C++ Project.pdb
 C:\Users\Lucas\Documents\1. Projects\C++ Project\obj\Debug\net9.0\C++ Project.genruntimeconfig.cache
 C:\Users\Lucas\Documents\1. Projects\C++ Project\obj\Debug\net9.0\ref\C++ Project.dll
+C:\Users\Lucas\Documents\1. Projects\C++ Project\obj\Debug\net9.0\C++ Project.sourcelink.json
