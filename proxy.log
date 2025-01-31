@@ -1,0 +1,2 @@
+[2025-01-31 14:43:55.158] Method: GET, URL: http://httpbin.org/get, Duration: 60704.7383ms, Size: 572 bytes, Status: 200
+[2025-01-31 14:44:11.528] Method: CONNECT, URL: httpbin.org:443, Duration: 60824.0296ms, Size: 0 bytes, Status: 200
