@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucas\\Documents\\1. Projects\\C++ Project\\C++ Project.csproj",
-      "projectName": "C++ Project",
-      "projectPath": "C:\\Users\\Lucas\\Documents\\1. Projects\\C++ Project\\C++ Project.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas\\Documents\\1. Projects\\C++ Project\\Proxy.csproj",
+      "projectName": "Proxy",
+      "projectPath": "C:\\Users\\Lucas\\Documents\\1. Projects\\C++ Project\\Proxy.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lucas\\Documents\\1. Projects\\C++ Project\\obj\\",
       "projectStyle": "PackageReference",

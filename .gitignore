@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+*.csv
+*.log
+*.txt
+*.json
+*.yaml
+*.yml
+*.jsonl
+*.jsonl.gz
